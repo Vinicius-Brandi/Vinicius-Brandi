@@ -2,8 +2,10 @@
 Sou estudante de Ciencia da Computação, Terceiro Termo
 
 ```python
-def test():
-  print('Oi mundo')
+def test(text : str):
+  print(text)
+
+test("Testando")
 ```
 
 ```c
