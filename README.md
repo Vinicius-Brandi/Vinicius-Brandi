@@ -10,7 +10,7 @@ def test():
 #include <stdio.h>
 
 int main() {
-    printf("Olá, Mundo!\n");
+    printf("Eu odeio C!\n");
     return 0;
 }
 
