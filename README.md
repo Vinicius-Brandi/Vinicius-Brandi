@@ -8,12 +8,3 @@ def test(text : str):
 test("Testando")
 ```
 
-```c
-#include <stdio.h>
-
-int main() {
-    printf("Eu amo C!\n");
-    return 0;
-}
-
-```
