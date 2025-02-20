@@ -1,7 +1,5 @@
-po agr vai dar certo 
-
 ## Vinicius Estevão Consolino Brandi
-Sou estudante de Ciencia da Computação, Terceiro Termo outra parte da primeira linha
+Sou estudante de Ciencia da Computação, Terceiro Termo
 
 
 ```python
