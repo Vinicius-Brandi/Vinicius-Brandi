@@ -12,7 +12,7 @@ test("Testando")
 #include <stdio.h>
 
 int main() {
-    printf("Eu odeio C!\n");
+    printf("Eu amo C!\n");
     return 0;
 }
 
