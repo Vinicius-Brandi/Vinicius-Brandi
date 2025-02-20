@@ -10,7 +10,7 @@ def test():
 #include <stdio.h>
 
 int main() {
-    printf("Eu amo C!\n");
+    printf("Eu amo muito a linguagem C!\n");
     return 0;
 }
 
