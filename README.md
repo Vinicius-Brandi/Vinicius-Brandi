@@ -1,5 +1,6 @@
 ## Vinicius Estevão Consolino Brandi
-Sou estudante de Ciencia da Computação, Terceiro Termo
+Sou estudante de Ciencia da Computação, Terceiro Termo outra parte da primeira linha
+
 
 ```python
 def test(text : str):
